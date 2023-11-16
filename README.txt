@@ -11,3 +11,7 @@ Temas que serão abordados:
   - PCA - Análise de Componentes Principais.
 - Modelos de Aprendizado de Máquina em Python.
 - Análise e validação de resultados.
+
+Alguns sites de Datasets:
+https://archive.ics.uci.edu/datasets
+https://www.kaggle.com/
